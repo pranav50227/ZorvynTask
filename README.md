@@ -20,6 +20,7 @@ The goal of this project is to demonstrate:
 ## ✨ Features
 
 ### 🏠 1. Home Dashboard
+![](Screenshots/HomeScreen.png)
 
 A clean and informative dashboard that gives users a quick overview of their finances.
 
@@ -40,6 +41,7 @@ Designed to provide clarity without overwhelming the user.
 ---
 
 ### 💸 2. Transaction Tracking
+![](Screenshots/transaction.png)
 
 A complete system to manage financial records.
 
@@ -64,6 +66,7 @@ Focus: Smooth data entry flow and structured list handling.
 ---
 
 ### 🎯 3. Goal / Challenge Feature
+![](Screenshots/goalsScreen.png)
 
 A product-oriented feature to improve engagement.
 
@@ -79,6 +82,7 @@ Encourages users to build better financial habits through goal tracking.
 ---
 
 ### 📊 4. Insights Screen
+![](Screenshots/insight.png)
 
 Provides users with meaningful financial analysis.
 
@@ -93,6 +97,7 @@ Focus: Presenting useful data clearly on small screens.
 ---
 
 ### 📱 5. Mobile UX Considerations
+![](Screenshots/BottomNavBar.png)
 
 * Smooth navigation between screens
 * Clean screen hierarchy
