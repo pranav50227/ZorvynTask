@@ -1,6 +1,5 @@
 package com.example.zorvyntask.data.model.transaction
 
-import com.example.zorvyntask.ui.Screens.TransactionCategory
 import com.example.zorvyntask.ui.Screens.TransactionType
 
 data class TransactionItem(

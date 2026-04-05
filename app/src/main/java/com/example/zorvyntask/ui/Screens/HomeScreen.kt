@@ -132,7 +132,7 @@ fun TopBar() {
         AppSpacer(size = SpaceSize.Small, isHorizontal = true)
 
         AppText(
-            text = "Atelier Finance",
+            text = "Pranav Yadav",
             type = TextType.Heading,
             color = GreenPrimary
         )
@@ -542,7 +542,7 @@ fun QuickActionItem(icon: androidx.compose.ui.graphics.vector.ImageVector, label
 // ─── Preview ───────────────────────────────────────────────────────────────────
 @Preview(showBackground = true, widthDp = 390, heightDp = 844)
 @Composable
-fun AtelierFinancePreview() {
+fun HomeScreenPreview() {
     MaterialTheme {
         HomeScreen()
     }

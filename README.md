@@ -41,7 +41,7 @@ Designed to provide clarity without overwhelming the user.
 ---
 
 ### 💸 2. Transaction Tracking
-![](Screenshots/transaction.png)
+![](Screenshots/TransactionScreen.png)
 
 A complete system to manage financial records.
 
@@ -66,7 +66,7 @@ Focus: Smooth data entry flow and structured list handling.
 ---
 
 ### 🎯 3. Goal / Challenge Feature
-![](Screenshots/goalsScreen.png)
+![](Screenshots/GoalsScreen.png)
 
 A product-oriented feature to improve engagement.
 
@@ -82,7 +82,7 @@ Encourages users to build better financial habits through goal tracking.
 ---
 
 ### 📊 4. Insights Screen
-![](Screenshots/insight.png)
+![](Screenshots/InsightsScreen.png)
 
 Provides users with meaningful financial analysis.
 

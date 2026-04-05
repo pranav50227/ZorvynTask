@@ -42,25 +42,14 @@ import com.example.zorvyntask.ui.theme.SpaceSize
 // ─────────────────────────────────────────────────────────────────────────────
 // Sample Data Models & Data
 // ─────────────────────────────────────────────────────────────────────────────
-
-
-
-
-
-
-
 enum class GoalStatIcon { Streak, Calendar }
 
-
-
 enum class BadgeIconType { Shield, Rocket }
-
-
 
 // ── Populated sample data ─────────────────────────────────────────────────────
 
 val sampleGoalsScreenData = GoalsScreenData(
-    topBarTitle = "Financial Atelier",
+    topBarTitle = "Zorvyn Task",
     progress = GoalProgressData(
         progressLabel = "CURRENT PROGRESS",
         progressPercent = 70,

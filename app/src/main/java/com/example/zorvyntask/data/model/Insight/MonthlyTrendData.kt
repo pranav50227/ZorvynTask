@@ -1,7 +1,5 @@
 package com.example.zorvyntask.data.model.Insight
 
-import com.example.zorvyntask.ui.Screens.MonthlyTrendPoint
-
 data class MonthlyTrendData(
     val points: List<MonthlyTrendPoint>,
     val highlightMonth: String,

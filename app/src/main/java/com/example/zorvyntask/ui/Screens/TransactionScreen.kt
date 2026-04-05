@@ -117,7 +117,7 @@ val sampleTransactions = listOf(
 )
 
 val sampleTransactionScreenData = TransactionScreenData(
-    topBarTitle = "Zorvyn Finance",
+    topBarTitle = "Zorvyn Task",
     searchHint = "Search transactions...",
     filters = listOf(
         FilterChip("Date", Icons.Default.CalendarMonth),
